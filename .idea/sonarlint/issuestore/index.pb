@@ -1,0 +1,19 @@
+
+T
+$src/main/java/hellojpa/RoleType.java,e/1/e151b821dadfe54a14fa67f5f3fe359bdad10ecc
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+S
+#src/main/java/hellojpa/Member1.java,4/8/4854ec24b1f63ff62099ab86f0cfef5ed4343456
+Y
+)src/main/java/hellojpa/MemberProduct.java,4/4/44c1b4a465ff3c033de64e5c746bd23b1c60bd17
+S
+#src/main/java/hellojpa/Product.java,7/1/717b091188e01e3e76c32796a05a5f0b7e165ec4
+Q
+!src/main/java/hellojpa/Album.java,d/5/d51633f288f6c9e54960bf8cc2765c46f749ce95
+Q
+!src/main/java/hellojpa/Movie.java,5/d/5d01fa8f7a9d9e79f69c3c4484557bbb877c2f6f
+P
+ src/main/java/hellojpa/Book.java,4/0/40e311ccbf52f9df9ec4629134747136c70691af
+R
+"src/main/java/hellojpa/Locker.java,4/7/4746643b525b7683f7bd87c9f4f12112f1a6193f
